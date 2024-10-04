@@ -1,7 +1,11 @@
 -👋 Hi, I’m Abhishek Radhakrishnan (@abhishekr98)
+
 -👨‍💻 Data Analyst at Ubisoft | Passionate about Data Science & Analytics
+
 -📊 SQL | Python | Tableau | Power BI | Exploring AI & Machine Learning
+
 -💡 Solving complex problems with data-driven insights
+
 -📫 Reach me at: abhishekradhakrishnanop@gmail.com
 
 <!---
