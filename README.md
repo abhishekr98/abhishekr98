@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @abhishekr98
-- 👀 I’m interested in Data
-- 📫 How to reach me via email: abhishekradhakrishnanop@gmail.com
+👋 Hi, I’m Abhishek Radhakrishnan (@abhishekr98)
+👨‍💻 Data Analyst at Ubisoft | Passionate about Data Science & Analytics
+📊 SQL | Python | Tableau | Power BI | Exploring AI & Machine Learning
+💡 Solving complex problems with data-driven insights
+📫 Reach me at: abhishekradhakrishnanop@gmail.com
 
 <!---
 abhishekr98/abhishekr98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
