@@ -2,7 +2,7 @@
 
 -👨‍💻 Data and Solutions Engineer | Data Science & Analytics
 
--📊 SQL | Python | Tableau | Power BI | Exploring AI & Machine Learning
+-📊 Python| SQL | Tableau | Power BI | AI & Machine Learning
 
 -💡 Solving complex problems with data-driven insights
 
