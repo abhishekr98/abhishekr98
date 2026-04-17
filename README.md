@@ -1,6 +1,6 @@
 -👋 Hi, I’m Abhishek Radhakrishnan (@abhishekr98)
 
--👨‍💻 Data and Solutions Engineer | Data Science & Analytics
+-👨‍💻 Data and AI Solutions Engineer | Data Science & Analytics
 
 -📊 Python| SQL | Tableau | Power BI | AI & Machine Learning
 
